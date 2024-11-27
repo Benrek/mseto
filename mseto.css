@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background-color:#FFFFFF;
+	
+}
+.footer {
+  padding: 20px;
+  text-align: center;
+  
+	
+}
+.footer{ background-color: #A8BFDA;
+	opacity: 0.9; 
+}
+.navbar-nav {
+  
+  font-family:Montserrat, sans-serif;
+    margin-bottom: 0;
+   
+    border: 0;
+    font-size: 11px !important;
+    letter-spacing: 4px;
+	height: auto;
+	float: right;
+	width: auto;
+	font-weight: 600;
+
+	
+	
+}
+
+
+.navbar li a, .navbar .navbar-brand { 
+    color: #000000;
+  }
+  .navbar-nav li a:hover {
+    color: #029AD8 !important;
+  }
+  
+.dropdown-menu{ background-color: #FFFFFF;
+	font-size: 11px;
+	font-family: Montserrat, sans-serif;
+	
+	border: hidden;
+	
+	
+}
+  .dropdown-menu li a {
+    color: black;
+  }
+  .dropdown-menu li a:hover {
+    color: #029AD8 !important;
+	  
+  }
+.nav-link{ color: red
+	
+}
+.carousel-caption{ position: absolute;
+text-align: }
